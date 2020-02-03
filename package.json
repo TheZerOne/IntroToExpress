@@ -1,0 +1,16 @@
+{
+  "name": "sathishravichandran_comp308lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11",
+    "pug": "^2.0.4"
+  }
+}
